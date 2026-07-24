@@ -1,10 +1,24 @@
-# python_fundamental_to_projects
+# 🐍 1-Week Python Practical Roadmap
 
-Just a girl trying to learn python 
+Welcome to my 1-week intensive Python learning repository! I am an Electronics and Communication Engineering (ECE) student building a rock-solid foundation in Python programming, file automation, web scraping/APIs, and web interface development.
 
-A little bit advanced level of python where I cover topics like \
-Day 1 : File and Directory Automation \
-Day 2 : Saving & Reading Data \
-Day 3 : Fetching Web Data & APIs \
-Day 4 : Web UI Development \
-Day 5 : Data Visualization & Images
+---
+
+## 📊 Learning Progress Dashboard
+
+| Day | Topic | Key Skills / Libraries | Status | Code Link |
+| :---: | :--- | :--- | :---: | :---: |
+| **Day 1** | File & Directory Automation | `os`, `shutil`, File Paths | ⏳ In Progress | [View Code](./01-Day1-File-System/) |
+| **Day 2** | Saving & Reading Data | `json`, `csv`, File Handling | 📅 Pending | [View Code](./02-Day2-JSON-Data/) |
+| **Day 3** | Fetching Web Data & APIs | `requests`, REST APIs, JSON Parsing | 📅 Pending | [View Code](./03-Day3-APIs-Requests/) |
+| **Day 4** | Web UI Development | `streamlit`, Web Elements | 📅 Pending | [View Code](./04-Day4-Streamlit-Web/) |
+| **Day 5** | Data Visualization & Images | `matplotlib`, `Pillow` | 📅 Pending | [View Code](./05-Day5-Data-Viz/) |
+| **Day 6** | **Project 1:** Smart File & Media Organizer | `os`, `shutil`, `json` | 📅 Pending | [View Code](./06-Project1-File-Organizer/) |
+| **Day 7** | **Project 2:** Live Weather & Outfit Web App | `streamlit`, `requests` | 📅 Pending | [View Code](./07-Project2-Weather-Streamlit/) |
+
+---
+
+## 🛠️ Setup & Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/python-fundamentals-to-projects.git](https://github.com/YOUR_USERNAME/python-fundamentals-to-projects.git)
