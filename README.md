@@ -9,7 +9,7 @@ Welcome to my 1-week intensive Python learning repository! I am an Electronics a
 | Day | Topic | Key Skills / Libraries | Status | Code Link |
 | :---: | :--- | :--- | :---: | :---: |
 | **Day 1** | File & Directory Automation | `os`, `shutil`, File Paths | ⏳ In Progress | [View Code](./01-Day1-File-System/) |
-| **Day 2** | Saving & Reading Data | `json`, `csv`, File Handling | 📅 Pending | [View Code](./02-Day2-JSON-Data/) |
+| **Day 2** | Saving & Reading Data | `json`, `csv`, File Handling | ⏳ In Progress | [View Code](./02-Day2-JSON-Data/) |
 | **Day 3** | Fetching Web Data & APIs | `requests`, REST APIs, JSON Parsing | 📅 Pending | [View Code](./03-Day3-APIs-Requests/) |
 | **Day 4** | Web UI Development | `streamlit`, Web Elements | 📅 Pending | [View Code](./04-Day4-Streamlit-Web/) |
 | **Day 5** | Data Visualization & Images | `matplotlib`, `Pillow` | 📅 Pending | [View Code](./05-Day5-Data-Viz/) |
