@@ -7,7 +7,7 @@ target_dir = "."
 # Destination folder for PDFs
 pdf_folder = os.path.join(target_dir, "Found_PDFs")
 
-# Step 1: Create the Found_PDFs folder safely
+# Step 1: Create the Found_PDFs folder safelyn
 os.makedirs(pdf_folder, exist_ok=True)
 
 # Step 2: List items and count PDFs
