@@ -30,7 +30,7 @@ def view_contacts():
     if not contacts:
         print("\n📭 No contacts found.\n")
         return
-    
+    clear
     print("\n--- Saved Entries ---")
     for idx, c in enumerate(contacts, 1):
         print(f"{idx}. {c['name']} - {c['role']}")
@@ -56,4 +56,4 @@ def main():
             print("Invalid option. Try again.\n")
 
 if __name__ == "__main__":
-    main()
+    main()  
