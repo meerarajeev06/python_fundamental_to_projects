@@ -1,0 +1,7 @@
+Component,Category,Voltage_V,Current_mA,Stock_Qty
+Resistor 10k,Passive,5.0,0.5,150
+LED Red,Opto,2.0,20.0,12
+Arduino Uno,Microcontroller,5.0,50.0,5
+ESP32,Microcontroller,3.3,160.0,3
+Capacitor 100uF,Passive,16.0,0.0,85
+LM7805 Regulator,Power,12.0,5.0,8
