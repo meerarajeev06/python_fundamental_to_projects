@@ -14,7 +14,7 @@ Welcome to my 1-week intensive Python learning repository! I am an Electronics a
 | **Day 4** | Web UI Development | `streamlit`, Web Elements | Done | [View Code](./04-Day4-Streamlit-Web/) |
 | **Day 5** | Pandas Data | `pandas` | Done | [View Code](./05-Day5-Data-Viz/) |
 | **Day 6** | Data Visualization | `matplotlib' | Done | [View Code](./06-Project1-File-Organizer/) |
-| **Day 7** | Capstone Code | `streamlit`, `requests` | ⏳ In Progress | [View Code](./07-Project2-Weather-Streamlit/) |
+| **Day 7** | Capstone Code | `streamlit`, `requests` | Done | [View Code](./07-Project2-Weather-Streamlit/) |
 
 ---
 
